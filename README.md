@@ -1,2 +1,2 @@
 # REPOSITORIO REAL MADRID
-Repositorio de prueba COMPUTACION 2 BACH
+Conocimientos básicos
